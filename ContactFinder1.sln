@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactFinderEntities", "ContactFinderEntities\ContactFinderEntities.csproj", "{685D60B6-3CFD-4571-B5BC-0A288FFF248F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactFinderDataAccess", "ContactFinderDataAccess\ContactFinderDataAccess.csproj", "{3B06EC52-FC23-4E69-95DC-B0C0BCBB3384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactFinderBusiness", "ContactFinderBusiness\ContactFinderBusiness.csproj", "{C049C311-0E71-432F-BB1D-C0E43353F375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactFinderAPI", "ContactFinderAPI\ContactFinderAPI.csproj", "{866375C0-89D6-4EBE-9F2E-4958E3A17CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685D60B6-3CFD-4571-B5BC-0A288FFF248F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685D60B6-3CFD-4571-B5BC-0A288FFF248F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685D60B6-3CFD-4571-B5BC-0A288FFF248F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685D60B6-3CFD-4571-B5BC-0A288FFF248F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B06EC52-FC23-4E69-95DC-B0C0BCBB3384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B06EC52-FC23-4E69-95DC-B0C0BCBB3384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B06EC52-FC23-4E69-95DC-B0C0BCBB3384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B06EC52-FC23-4E69-95DC-B0C0BCBB3384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C049C311-0E71-432F-BB1D-C0E43353F375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C049C311-0E71-432F-BB1D-C0E43353F375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C049C311-0E71-432F-BB1D-C0E43353F375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C049C311-0E71-432F-BB1D-C0E43353F375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866375C0-89D6-4EBE-9F2E-4958E3A17CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866375C0-89D6-4EBE-9F2E-4958E3A17CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866375C0-89D6-4EBE-9F2E-4958E3A17CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866375C0-89D6-4EBE-9F2E-4958E3A17CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D6C51B0-3896-4941-BE98-A6504B202097}
+	EndGlobalSection
+EndGlobal
